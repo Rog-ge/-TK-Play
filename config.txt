@@ -1,0 +1,3 @@
+﻿prefix =/s
+token=NTI3MjEyMzc3MjU5NzY5ODU3.DwQpsg.5SFhwoQzSZ6UCDT19x0-F-gBg9I
+owner=519447247969058816
